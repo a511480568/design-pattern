@@ -1,7 +1,7 @@
 # Coding Interviews
 <p>
-  <a href="https://github.com/doocs/coding-interview/stargazers"><img src="https://img.shields.io/github/stars/doocs/coding-interview.svg" alt="stars"></a>
-  <a href="https://github.com/doocs/coding-interview/network/members"><img src="https://img.shields.io/github/forks/doocs/coding-interview.svg" alt="forks"></a>
+  <a href="https://github.com/a511480568/design-pattern/stargazers"><img src="https://img.shields.io/github/stars/doocs/coding-interview.svg" alt="stars"></a>
+  <a href="https://github.com/a511480568/design-pattern/network/members"><img src="https://img.shields.io/github/forks/doocs/coding-interview.svg" alt="forks"></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome"></a>
 </p>
 
