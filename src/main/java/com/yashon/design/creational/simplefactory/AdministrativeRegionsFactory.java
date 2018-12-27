@@ -9,6 +9,11 @@ package com.yashon.design.creational.simplefactory;
  **/
 public class AdministrativeRegionsFactory {
 
+    /**
+     * 通过级别判断
+     * @param level
+     * @return
+     */
     public static AdministrativeRegions getRegions(int level){
         if(1 == level){
             return new ProvinceRegions();
@@ -21,5 +26,19 @@ public class AdministrativeRegionsFactory {
         }else {
             return null;
         }
+    }
+
+    public static AdministrativeRegions getRegionsByClazz(Class clazz){
+        AdministrativeRegions administrativeRegions = null;
+
+        try {
+            administrativeRegions = (AdministrativeRegions)clazz.newInstance();
+        } catch (InstantiationException e) {
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        }
+
+        return administrativeRegions;
     }
 }
