@@ -1,3 +1,9 @@
+<p>
+  <a href="https://github.com/a511480568/design-pattern/stargazers"><img src="https://img.shields.io/badge/stars-0-brightgreen.svg" alt="stars"></a>
+  <a href="https://github.com/a511480568/design-pattern/network/members"><img src="https://img.shields.io/badge/fork-0-brightgreen.svg" alt="forks"></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome"></a>
+</p>
+
 # 设计原则
 
 ## 开闭原则
