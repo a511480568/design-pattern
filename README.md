@@ -56,7 +56,8 @@
 
 ### 创建型模式：
 
-单例模式、[工厂方法模式](https://github.com/a511480568/design-pattern/blob/master/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95.md)、抽象工厂模式、建造者模式、原型模式
+单例模式、[工厂方法模式](https://github.com/a511480568/design-pattern/blob/master/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95.md)
+、[抽象工厂模式](https://github.com/a511480568/design-pattern/blob/master/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82.md)、建造者模式、原型模式
 
 ### 结构型模式：
 
