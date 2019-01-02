@@ -1,5 +1,7 @@
 package com.yashon.design.creational.single;
 
+import java.io.Serializable;
+
 /**
  * @ClassName HungarySingleton
  * @Description TODO
@@ -7,7 +9,7 @@ package com.yashon.design.creational.single;
  * @Date 2019/1/2 下午5:35
  * @Version 1.0
  **/
-public class HungarySingleton {
+public class HungarySingleton implements Serializable {
 
     private static final HungarySingleton INSTANCE = new HungarySingleton();
 
@@ -16,6 +18,10 @@ public class HungarySingleton {
     }
 
     public static HungarySingleton getInstance(){
+        return INSTANCE;
+    }
+
+    public Object readResolve(){
         return INSTANCE;
     }
 }
