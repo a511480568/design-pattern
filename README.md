@@ -64,7 +64,7 @@
 
 * [建造者模式](https://github.com/a511480568/design-pattern/blob/master/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%9E%8B.md)
 
-原型模式
+* [原型模式](https://github.com/a511480568/design-pattern/blob/master/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
 
 ### 结构型模式：
 
