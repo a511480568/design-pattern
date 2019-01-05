@@ -1,4 +1,4 @@
-package com.yashon.design.structural;
+package com.yashon.design.structural.facade;
 
 /**
  * @ClassName ShippingService
