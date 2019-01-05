@@ -74,7 +74,7 @@
 
 * 代理模式
 
-* 门面模式
+* [外观模式](https://github.com/a511480568/design-pattern/blob/master/structural/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)
 
 * 桥梁模式
 
