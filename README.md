@@ -80,7 +80,7 @@
 
 * 组合模式
 
-* 享元模式
+* [享元模式](https://github.com/a511480568/design-pattern/blob/master/structural/%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
 
 ### 行为模式：
 
