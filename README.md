@@ -72,7 +72,7 @@
 
 * [装饰者模式](https://github.com/a511480568/design-pattern/blob/master/structural/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-* 代理模式
+* [代理模式](https://github.com/a511480568/design-pattern/blob/master/structural/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 
 * [外观模式](https://github.com/a511480568/design-pattern/blob/master/structural/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)
 
