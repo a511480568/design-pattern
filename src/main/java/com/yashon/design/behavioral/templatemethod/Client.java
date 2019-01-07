@@ -1,4 +1,4 @@
-package com.yashon.design.behavioral;
+package com.yashon.design.behavioral.templatemethod;
 
 /**
  * @ClassName Client
