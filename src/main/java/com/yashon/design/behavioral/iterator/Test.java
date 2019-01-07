@@ -20,5 +20,9 @@ public class Test {
         aggregate.addCourse(course2);
         aggregate.addCourse(course3);
         ((CourseAggregateImpl) aggregate).print();
+
+        CourseIterator courseIterator = aggregate.courseIterator();
+        Course next = courseIterator.nextCourse();
+        System.out.println(next);
     }
 }
