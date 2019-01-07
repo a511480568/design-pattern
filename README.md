@@ -84,7 +84,7 @@
 
 ### 行为模式：
 
-* 策略模式
+* [策略模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 
 * [模板方法模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95.md)
 
