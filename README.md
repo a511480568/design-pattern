@@ -88,7 +88,7 @@
 
 * [模板方法模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95.md)
 
-* 观察者模式
+* [观察者模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
 * [迭代器模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
@@ -104,6 +104,6 @@
 
 * 中介者模式
 
-* 解释器模式
+* [解释器模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
 **如有问题，请指出，谢谢~**
