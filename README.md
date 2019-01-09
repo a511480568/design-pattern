@@ -96,7 +96,7 @@
 
 * 命令模式
 
-* 备忘录模式
+* [备忘录模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
 
 * 状态模式
 
