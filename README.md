@@ -92,17 +92,17 @@
 
 * [迭代器模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
-* 责任链模式
+* [责任链模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 
-* 命令模式
+* [命令模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
 
 * [备忘录模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
 
-* 状态模式
+* [状态模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
 
-* 访问者模式
+* [访问者模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-* 中介者模式
+* [中介者模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
 * [解释器模式](https://github.com/a511480568/design-pattern/blob/master/behavioral/%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
